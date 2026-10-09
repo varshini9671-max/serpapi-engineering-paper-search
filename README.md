@@ -24,3 +24,9 @@ An engineering research paper search application built using SerpApi.
 ## Project Purpose
 
 This project helps engineering students and researchers quickly find relevant research papers, authors, and DOI links.
+
+🚀 Live Demo
+
+Try the application here:
+
+"Open EngiSearch AI" (https://localhost8501-g7s4ds8a9mdw8tepghfhnw.streamlit.app/)
